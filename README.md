@@ -29,19 +29,24 @@ This project presents a comprehensive analysis of global cybersecurity threats f
 1. **Attack Analysis Page**
    - Top attack types over the years
    - Attack type by Affected users
-   - Heatmaps of threat distribution by region
    - Year-on-year growth of cyber attacks
+<img width="668" alt="cybersecurity Attack page" src="https://github.com/user-attachments/assets/4f96ccd5-d936-49da-a91d-d3a533e17ca3" />
 
+    
 2. **Financial Impact Page**
    - Average and total financial losses by threat type
    - Industry-wise cost breakdown
    - Loss vs. resolution time correlation
    - Highest cost attacks
+<img width="671" alt="cybersecurity Financial impact page" src="https://github.com/user-attachments/assets/5ae4675f-0566-48fd-82a0-58df0a526cea" />
+
 
 3. **Summary Page**
    - Executive KPIs: total attacks, average loss, resolution time, total affected users
    - Filter by year
    - Navigation bottons to other pages
+<img width="669" alt="cybersecurity summary page" src="https://github.com/user-attachments/assets/ad75f9f4-46a1-46b7-b592-a4180022f751" />
+
 
 4. **Defense Effectiveness Page**
    - Average time to detect and resolve threats
@@ -49,6 +54,8 @@ This project presents a comprehensive analysis of global cybersecurity threats f
    - % of Defence mechanizm used
    - Defense vs. attack type matrix
    - Resolution time by defense type
+<img width="667" alt="cybersecurity defense page" src="https://github.com/user-attachments/assets/d869dba3-1f77-443e-aa3b-1bc883813a8f" />
+
 
 5. **Drill-through Pages**
    - Detailed drill-down by:
@@ -56,6 +63,8 @@ This project presents a comprehensive analysis of global cybersecurity threats f
      - Industry
      - Threat type
    - Enables context-specific insights with deep filtering
+<img width="668" alt="Cybersecurity Drillthrough page" src="https://github.com/user-attachments/assets/f5dcc50c-cc3c-4211-80d0-3f0627191eb5" />
+
 
 ---
 
