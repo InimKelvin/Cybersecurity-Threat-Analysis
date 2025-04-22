@@ -79,6 +79,23 @@ This project presents a comprehensive analysis of global cybersecurity threats f
 
 ---
 
+## Conclusion
+This analysis provides comprehensive insights into global cybersecurity threats from 2015 to 2024. Key findings include:
+
+- The most targeted countries and industries
+
+- The most common attack types and their financial impacts
+
+- Trends in vulnerabilities and defense mechanisms
+
+- Changes in incident resolution times
+
+- Relationships between different variables
+
+The visualizations help identify patterns and trends that can inform cybersecurity strategies and resource allocation for different industries and regions.
+
+---
+
 ## 💡 Recommendations
 
 - Invest in automated monitoring tools and AI-based detection  
