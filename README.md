@@ -22,7 +22,7 @@ This project presents a comprehensive analysis of global cybersecurity threats f
 
 ## 📊 Dashboard Overview
 
-👉 [**View Power BI Dashboard**](https://app.powerbi.com/reportEmbed?reportId=55f74faa-57c0-404d-994c-9599230a536f&autoAuth=true&ctid=49732241-fe2f-4236-a944-016cb5b808ff)
+👉 [**View Power BI Dashboard**](https://app.powerbi.com/reportEmbed?reportId=d8f900b8-ce3d-4e5d-abe6-cee5dba7f7e4&autoAuth=true&ctid=49732241-fe2f-4236-a944-016cb5b808ff)
 
 ### 📄 Power BI Pages
 
